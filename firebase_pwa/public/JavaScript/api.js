@@ -1,9 +1,3 @@
-// =============================================================================
-// api.js – Komunikace s externí API pro kurzy měn
-// Zodpovídá výhradně za načítání kurzů ze sítě a jejich uložení do paměti.
-// Ostatní části aplikace pak čtou proměnnou `exchangeRates` z config.js.
-// =============================================================================
-
 // -----------------------------------------------------------------------------
 // fetchExchangeRates(baseCurrency)
 //
